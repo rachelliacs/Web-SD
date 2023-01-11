@@ -1,9 +1,15 @@
-Website untuk Sekolah Dasar sederhana yang dibangun menggunakan Wordpress.
+# Website untuk Sekolah Dasar
+Sebuah website sederhana yang dibangun menggunakan **`Wordpress`**.
 
-Preview
+### Halaman yang tersedia:
+* Halaman Beranda
+* Halaman Guru
+* Halaman Sarana Prasarana
+* Halaman Galeri Sekolah
+* Halaman Sejarah
+
+### Preview
 
 ![screenshots](screenshots/homepage.png)
-![screenshots](screenshots/teacherspage.png)
 ![screenshots](screenshots/saranaprasaranapage.png)
 ![screenshots](screenshots/gallerypage.png)
-![screenshots](screenshots/historypage.png)
